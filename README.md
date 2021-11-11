@@ -1,6 +1,6 @@
 # Python_API_Challenge
 
-##**Summary**
+## **Summary**
 
 >A point is referenced by is longitude and latitude (http://desktop.arcgis.com/en/arcmap/10.3/guide-books/map-projections/about-geographic-coordinate-systems.htm).
 
